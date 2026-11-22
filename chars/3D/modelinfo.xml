@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModelInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ModelFile>合并11.pmx</ModelFile>
+  <Comment>衣服：鸣潮/1010浣/_SPDD
+
+高跟鞋：01musume
+
+最终编辑：_SPDD
+
+禁止二配，禁止非法使用。他人使用本模型所造成的一切不良后果，不由模型改造者与miHoYo承担，请向使用者追究全部责任。
+
+二次マッチングや不正利用は禁止です。 このモデルを使用する他の人によって引き起こされたいかなる悪影響も、モデル修正者およびmiHoYoの責任ではありません。ご使用者様の責任においてご使用ください。</Comment>
+  <Toon>
+    <string>hair.bmp</string>
+    <string>skin.bmp</string>
+    <string>toon_b.bmp</string>
+    <string>toon_defo.bmp</string>
+    <string>toonmap25.bmp</string>
+  </Toon>
+  <Texure>
+    <string>asanawa.png</string>
+    <string>blindfold text.png</string>
+    <string>body-4.png</string>
+    <string>dng2-1.png</string>
+    <string>inmon.png</string>
+    <string>inmon2.png</string>
+    <string>sita.png</string>
+    <string>sp.png</string>
+    <string>髮.png</string>
+    <string>高跟鞋_basecolor.png</string>
+    <string>刻度表4.png</string>
+    <string>口球.png</string>
+    <string>目1.png</string>
+    <string>目2.png</string>
+    <string>乳贴.png</string>
+    <string>丝袜.png</string>
+    <string>体.png</string>
+    <string>兔女郎.png</string>
+    <string>颜.png</string>
+    <string>颜1.png</string>
+  </Texure>
+  <Sphere>
+    <string>gold.png</string>
+    <string>hair_s.bmp</string>
+    <string>matcap_skin7_2.bmp</string>
+    <string>mc1.png</string>
+    <string>nuruteka.jpg</string>
+    <string>金属.png</string>
+    <string>金属2.png</string>
+  </Sphere>
+</ModelInfo>

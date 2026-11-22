@@ -1,0 +1,62 @@
+[
+ {
+  "id": 190003,
+  "name": "3D",
+  "displayName": "3D Citlali",
+  "weaponType": "",
+  "element": "Paperplane",
+  "gender": "Female",
+  "region": "",
+  "rarity": 5,
+  "directory": "chars/3D",
+  "image": "Covers/3D.png",
+  "pmx": "茜特拉莉_夏日R18_by_SPDD.pmx",
+  "base": "https://carlutic.github.io/paperplane_2/",
+  "noPhysics": true
+ },
+ {
+  "id": 190004,
+  "name": "42素体",
+  "displayName": "42R18素体",
+  "weaponType": "",
+  "element": "Paperplane",
+  "gender": "Female",
+  "region": "",
+  "rarity": 5,
+  "directory": "chars/42",
+  "image": "Covers/42.png",
+  "pmx": "R18专用素体.Pmx",
+  "base": "https://carlutic.github.io/paperplane_2/",
+  "noPhysics": true
+ },
+ {
+  "id": 190005,
+  "name": "Aijier",
+  "displayName": "Aijier-Bunny GirlV1.3.1",
+  "weaponType": "",
+  "element": "Paperplane",
+  "gender": "Female",
+  "region": "",
+  "rarity": 5,
+  "directory": "chars/Aijier",
+  "image": "Covers/Aijier.png",
+  "pmx": "Aijier-R18V1.3.1.pmx",
+  "base": "https://carlutic.github.io/paperplane_2/",
+  "noPhysics": true
+ },
+ {
+  "id": 190006,
+  "name": "Anchorage",
+  "displayName": "AnchorageR18",
+  "weaponType": "",
+  "element": "Paperplane",
+  "gender": "Female",
+  "region": "",
+  "rarity": 5,
+  "directory": "chars/Anchorage",
+  "image": "Covers/Anchorage.png",
+  "pmx": "安克雷奇R18V1.6.ALL.pmx",
+  "base": "https://carlutic.github.io/paperplane_2/",
+  "noPhysics": true
+ }
+]
