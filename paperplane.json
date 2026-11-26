@@ -11,8 +11,7 @@
   "directory": "chars/3D",
   "image": "Covers/3D.png",
   "pmx": "茜特拉莉_夏日R18_by_SPDD.pmx",
-  "base": "https://carlutic.github.io/paperplane_2/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_2/"
  },
  {
   "id": 190004,
@@ -26,8 +25,7 @@
   "directory": "chars/42",
   "image": "Covers/42.png",
   "pmx": "R18专用素体.Pmx",
-  "base": "https://carlutic.github.io/paperplane_2/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_2/"
  },
  {
   "id": 190005,
@@ -41,8 +39,7 @@
   "directory": "chars/Aijier",
   "image": "Covers/Aijier.png",
   "pmx": "Aijier-R18V1.3.1.pmx",
-  "base": "https://carlutic.github.io/paperplane_2/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_2/"
  },
  {
   "id": 190006,
@@ -56,7 +53,6 @@
   "directory": "chars/Anchorage",
   "image": "Covers/Anchorage.png",
   "pmx": "安克雷奇R18V1.6.ALL.pmx",
-  "base": "https://carlutic.github.io/paperplane_2/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_2/"
  }
 ]
